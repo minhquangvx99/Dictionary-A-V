@@ -1,0 +1,13 @@
+D:\Project 3\Code\Từ điển Anh-Việt\bin\Debug\HASHTABLE.exe.config
+D:\Project 3\Code\Từ điển Anh-Việt\bin\Debug\HASHTABLE.exe
+D:\Project 3\Code\Từ điển Anh-Việt\bin\Debug\HASHTABLE.pdb
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.ResolveComReference.cache
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.frmMain.resources
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.Properties.Resources.resources
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.GenerateResource.cache
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.CoreCompileInputs.cache
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.exe
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.pdb
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.frmFavorite.resources
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\Interop.SpeechLib.dll
+D:\Project 3\Code\Từ điển Anh-Việt\obj\Debug\HASHTABLE.frmLearn.resources
